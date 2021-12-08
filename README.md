@@ -4,4 +4,3 @@
 ![...](Part-to-Whole.png "Hours of Sleep per Day")
 
 12/8/21 - Pictogram
-![...](Pictogram.png "Handedness")
