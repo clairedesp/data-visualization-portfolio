@@ -8,3 +8,7 @@
 
 12/10/21 - Pictogram
 ![...](Pictogram2.png "Likelihood Someone Goes to Prison in Their Lifetime")
+
+12/13/21 - Historical
+![...](Historical.png "Imports and Exports of Scotland by me")
+![...](Original-Historical.png "Imports and Exports of Scotland")
