@@ -12,3 +12,6 @@
 12/13/21 - Historical
 ![...](Historical.png "Imports and Exports of Scotland by me")
 ![...](Original-Historical.png "Imports and Exports of Scotland")
+
+12/15/21 - Magical
+![...](Historical.png "Google Analytics Data for the Word Usage of 'Witch' and 'Wizard'")
