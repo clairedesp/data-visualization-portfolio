@@ -15,3 +15,6 @@
 
 12/15/21 - Magical  
 ![...](Magical.png "Google Analytics Data for the Word Usage of 'Witch' and 'Wizard'")
+
+1/7/21 - Slope  
+![...](Slope.png "Changes in World Happiness Report Scores recorded on Wikipedia from 2016 to 2020")
