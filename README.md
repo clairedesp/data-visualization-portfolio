@@ -19,5 +19,8 @@
 1/7/21 - Slope  
 ![...](Slope.png "Changes in World Happiness Report Scores recorded on Wikipedia from 2016 to 2020")
 
-1/7/21 - Experimental  
+1/10/21 - Experimental  
 ![...](Experimental.png "Absorbancy vs. Molarity of a solution with data from a Chem 580 lab")
+
+1/12/21 - Physical  
+![...](Physical.png "Surface Coverage Distribution of Earth")
