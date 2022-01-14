@@ -24,3 +24,6 @@
 
 1/12/21 - Physical  
 ![...](Physical.png "Surface Coverage Distribution of Earth")
+
+1/12/21 - Animals  
+![...](Animals.png "Distribution of the Types of Vertibrates with data from https://manoa.hawaii.edu/exploringourfluidearth/biological/fish/what-fish")
