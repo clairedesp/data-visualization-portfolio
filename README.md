@@ -27,3 +27,6 @@
 
 1/12/21 - Animals  
 ![...](Animals.png "Distribution of the Types of Vertibrates with data from https://manoa.hawaii.edu/exploringourfluidearth/biological/fish/what-fish")
+
+1/21/21 - Statistics  
+![...](Statistics.png "Student Covid Positivity Rate from Campus Wide Testing with Data from Dr. Patel's Emails")
