@@ -30,3 +30,6 @@
 
 1/21/21 - Statistics  
 ![...](Statistics.png "Student Covid Positivity Rate from Campus Wide Testing with Data from Dr. Patel's Emails")
+
+1/24/21 - Abstract  
+![...](Abstract.png "Pantone Color of the Year RGB Values")
