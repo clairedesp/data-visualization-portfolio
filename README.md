@@ -33,3 +33,6 @@
 
 1/24/21 - Abstract  
 ![...](Abstract.png "Pantone Color of the Year RGB Values")
+
+1/26/21 - Circular  
+![...](Circular.png "Distribution of Boarding and Day Students at Andover")
