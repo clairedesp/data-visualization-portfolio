@@ -36,3 +36,6 @@
 
 1/26/21 - Circular  
 ![...](Circular.png "Distribution of Boarding and Day Students at Andover")
+
+1/28/21 - Strips  
+![...](Strips.png "Average Daily Temperature in Andover with data from https://www.wunderground.com/history/monthly/us/ma/boston/KBOS/date/2021-12")
