@@ -16,26 +16,29 @@
 12/15/21 - Magical  
 ![...](Magical.png "Google Analytics Data for the Word Usage of 'Witch' and 'Wizard'")
 
-1/7/21 - Slope  
+1/7/22 - Slope  
 ![...](Slope.png "Changes in World Happiness Report Scores recorded on Wikipedia from 2016 to 2020")
 
-1/10/21 - Experimental  
+1/10/22 - Experimental  
 ![...](Experimental.png "Absorbancy vs. Molarity of a solution with data from a Chem 580 lab")
 
-1/12/21 - Physical  
+1/12/22 - Physical  
 ![...](Physical.png "Surface Coverage Distribution of Earth")
 
-1/12/21 - Animals  
+1/12/22 - Animals  
 ![...](Animals.png "Distribution of the Types of Vertibrates with data from https://manoa.hawaii.edu/exploringourfluidearth/biological/fish/what-fish")
 
-1/21/21 - Statistics  
+1/21/22 - Statistics  
 ![...](Statistics.png "Student Covid Positivity Rate from Campus Wide Testing with Data from Dr. Patel's Emails")
 
-1/24/21 - Abstract  
+1/24/22 - Abstract  
 ![...](Abstract.png "Pantone Color of the Year RGB Values")
 
-1/26/21 - Circular  
+1/26/22 - Circular  
 ![...](Circular.png "Distribution of Boarding and Day Students at Andover")
 
-1/28/21 - Strips  
+1/28/22 - Strips  
 ![...](Strips.png "Average Daily Temperature in Andover with data from https://www.wunderground.com/history/monthly/us/ma/boston/KBOS/date/2021-12")
+
+2/2/22 - Correlation  
+![...](Correlation.png "Female Fertility vs. Child Mortality Rates with data from www.gapminder.org")
