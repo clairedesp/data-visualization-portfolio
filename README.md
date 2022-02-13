@@ -46,3 +46,5 @@
 2/11/22 - Space  
 ![...](Space.png "Distance of Stars from the Sun vs. Brightness with data from https://www.astronexus.com/hyg")
 
+2/14/22 - Multivariate  
+![...](Multivariate.png "Magnitude vs. Distance from Earth vs. Brightness of Stars with data from https://www.astronexus.com/hyg")
