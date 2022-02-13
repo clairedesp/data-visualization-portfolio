@@ -42,3 +42,7 @@
 
 2/2/22 - Correlation  
 ![...](Correlation.png "Female Fertility vs. Child Mortality Rates with data from www.gapminder.org")
+
+2/11/22 - Space  
+![...](Space.png "Distance of Stars from the Sun vs. Brightness with data from https://www.astronexus.com/hyg")
+
